@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi
+I'm studying in Gachon University in Korea.
 
 <!--
 **jues0379/jues0379** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
